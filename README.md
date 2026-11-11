@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.png" alt="flow-ledger-android Logo" width="160" />
+</p>
+
 # Flow Ledger — Android Financial Utility
 
 > Minimalist, privacy-first personal finance application with zero manual tagging, ambient Glance widgets, and automated SMS parsing.

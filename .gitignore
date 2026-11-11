@@ -9,3 +9,6 @@ local.properties
 *.aab
 *.iml
 .DS_Store
+!assets/logo.png
+!assets/
+!assets/**
